@@ -1,1 +1,1 @@
-# Curso-cuadr-pedos
+# Curso-cuadrupedos
